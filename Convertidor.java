@@ -7,7 +7,6 @@ public class Convertidor {
         int cm;
         int Y;
         int menu = 0;
-        double res;
         do{
         System.out.println("Convertidor de unidades de distancia");
         System.out.println("Menu\n1. Centimentros - Pulgadas\n2. Yardas - metros\n3. Km - Millas\n4. Cerrar programa\n Ingrese una Opcion");
