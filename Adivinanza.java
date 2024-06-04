@@ -28,6 +28,6 @@ import java.util.*;
             System.out.println(numeroRandom);
             
         }while(intento > 0 && numeroUsario != numeroRandom);
-        
+        input.close();
     }//PSVM
 }//CLASS

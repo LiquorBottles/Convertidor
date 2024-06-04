@@ -44,6 +44,6 @@ public class Convertidor {
             break;
         }
         }while(menu != 4);
-
+        input.close();
     }
 }
